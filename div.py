@@ -11,3 +11,5 @@ def decor(name):
     
 decor("vinodh")
 decor("ram")
+# this is the way of doing and working decorator 
+# thank you
