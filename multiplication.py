@@ -1,4 +1,4 @@
-a = 10
-b= 12
+a = int(input("enter a value"))
+b = int(input("enter b value here"))
 c = a*b
 print(c)
