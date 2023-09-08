@@ -6,3 +6,4 @@ print(a)
 print(b)
 print(c)
 print("its is testing for multiplication file in vs code")
+
