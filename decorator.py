@@ -10,6 +10,7 @@ def mynewdecor(func):
         else:
             print(func(name))
     return inner
+print( " --- ")
 
 
 @mynewdecor

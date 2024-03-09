@@ -7,3 +7,4 @@ def gen(number):
 p = gen(10)
 for i in p:
     print(i)
+    print(" ------------ ")
