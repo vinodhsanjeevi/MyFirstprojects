@@ -11,6 +11,7 @@ def mynewdecor(func):
             print(func(name))
     return inner
 print( " --- ")
+print("its final line --------- ")
 
 
 @mynewdecor
