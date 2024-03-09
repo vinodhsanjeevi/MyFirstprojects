@@ -23,3 +23,5 @@ take("abc")
 take("cow")
 print("----------------------------------------------------")
 print(" 9 9 9 9 9 9 9")
+c = a + b
+print("lkchkjdwckhdk")
